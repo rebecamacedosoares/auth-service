@@ -1,0 +1,17 @@
+# Ambientes Virtuais
+.venv/
+venv/
+__pycache__/
+
+# Arquivos de ambiente
+.env
+
+# Outros
+*.pyc
+.DS_Store
+
+# Ignorar arquivos de texto 
+*.txt
+
+# NÃO ignorar o requirements.txt
+!requirements.txt
