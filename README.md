@@ -2,7 +2,7 @@
 
 Este é um microsserviço centralizado, responsável unicamente por cadastro, login e gerenciamento de tokens de autenticação (JWT) para um ecossistema de aplicações.
 
-## Stack de Tecnologias
+## Tecnologias
 
 * **Framework:** Flask
 * **Banco de Dados:** PostgreSQL
@@ -22,7 +22,7 @@ cd auth-service
 ```
 
 **2. Configure as Variáveis de Ambiente**
-Crie um arquivo chamado `.env` na raiz do projeto. Você pode copiar o arquivo de exemplo `.env.example` (se existir) ou usar o template abaixo.
+Crie um arquivo chamado `.env` na raiz do projeto. Você pode usar o template abaixo.
 
 ```env
 # /auth-service/.env
